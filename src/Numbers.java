@@ -5,10 +5,11 @@ public class Numbers {
             System.out.print(a/10 +", ");
             a++;
         }
+        double b = 0;
         do {
-            System.out.print(a/10 +", ");
-            a++;
-        }while (a<=30);
+            System.out.print(b/10 +", ");
+            b++;
+        }while (b<=30);
 
 
     }
